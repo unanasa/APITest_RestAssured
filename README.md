@@ -4,7 +4,9 @@ Coding test of Assurity - using RestAssured
 <b>Software Requirements:</b>
 
 Windows 10 or above
+
 Java 11 or higher
+
 Apache Maven 3.8.6
 
 <b>To run the test:</b>
