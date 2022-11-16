@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AssurityAPITest_RestAssured">
+
+	<listeners>
+		<listener class-name="utilities.Reporting" />
+	</listeners>
+
+
+	<test name="API Test">
+		<classes>
+			  <class name="tests.TestCategory_6327" />
+
+		</classes>
+
+	</test>
+
+</suite>

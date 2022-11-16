@@ -1,0 +1,44 @@
+2022-11-16 03:11:44,958 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 03:11:45,042 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 03:11:46,600 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 03:11:46,637 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 03:13:22,155 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 03:13:22,197 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 03:13:22,975 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 03:13:23,017 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 04:31:08,391 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 04:31:08,463 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 04:31:09,261 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 04:31:09,306 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 04:46:33,150 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 04:46:33,223 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 04:46:34,539 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 04:46:34,586 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 04:52:48,413 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 04:52:48,465 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 04:52:49,243 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 04:52:49,304 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:01:12,240 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:01:12,290 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:01:13,052 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:01:13,115 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:05:31,145 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:05:31,200 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:05:31,956 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:05:32,016 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:17:53,069 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:17:53,122 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:17:54,333 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:17:54,372 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:19:38,545 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:19:38,596 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:19:39,578 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:19:39,604 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:30:18,622 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:30:18,681 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:30:19,591 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:30:19,619 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
+2022-11-16 05:32:36,088 - Assurity_APITest -INFO - ------- Opened the url and extracted response ----------
+2022-11-16 05:32:36,142 - Assurity_APITest -INFO - ------- AC1 : Verifying 'Name' value.. ----------
+2022-11-16 05:32:36,973 - Assurity_APITest -INFO - ------- AC2 : Verifying 'CanRelist' value.. ----------
+2022-11-16 05:32:37,007 - Assurity_APITest -INFO - ------- AC3 : Verifying 'Description' of Gallery.. ----------
